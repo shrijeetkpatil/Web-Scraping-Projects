@@ -6,7 +6,6 @@
 
 	In this project I have scraped data from JustDial and it has saved in JSON format. 
 	Generated json looks like as follows.
-
 [
 
     {
