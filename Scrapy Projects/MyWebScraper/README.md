@@ -57,6 +57,10 @@
 		where "justdial" is `name` of spider file which is declare in "JustDialSpider.py" file.
 
 
-### 5. All Scraped Data will save inside the "SCRAPED_DATA" folder.
+### 5. Scraped Data
+
+	All Scraped Data will save inside the "SCRAPED_DATA" folder.
+
+
 
 
