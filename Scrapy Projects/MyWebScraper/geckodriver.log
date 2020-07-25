@@ -1,0 +1,10 @@
+1595663912717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Io9pqjrkVGON"
+1595663918548	Marionette	INFO	Listening on port 42011
+1595663918647	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.127777.com/mnbldr/?b=jd_rwd/public/minjs&g=cmnjs,usrjs,tranlatejs,rsljs&ver_=47.80, line 220: unreachable code after return statement
+1595663960568	Marionette	INFO	Stopped listening on port 42011
+1595663963289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jIRmCyVqSQ7w"
+1595663968810	Marionette	INFO	Listening on port 38135
+1595663968910	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.127777.com/mnbldr/?b=jd_rwd/public/minjs&g=cmnjs,usrjs,tranlatejs,rsljs&ver_=47.80, line 220: unreachable code after return statement
+1595664012052	Marionette	INFO	Stopped listening on port 38135
