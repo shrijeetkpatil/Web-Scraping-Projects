@@ -14,14 +14,13 @@
         "phone": "9152120789",
         "address": "Niti Khand 2-Indir.. "
     },
-    
     {
         "name": "Sky Home Real Estate",
         "rateing": 4.0,
         "phone": "9152385411",
         "address": "Plaza Gyan Khand 1.. "
     },
-    
+
 ]
 
 
