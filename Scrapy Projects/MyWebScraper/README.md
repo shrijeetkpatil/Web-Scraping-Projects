@@ -7,19 +7,21 @@
 	In this project I have scraped data from JustDial and it has saved in JSON format. Generated json looks like as follows.
 
 [
+
     {
         "name": "Shree S S Properties and De..",
         "rateing": 4.1,
         "phone": "9152120789",
         "address": "Niti Khand 2-Indir.. "
     },
+    
     {
         "name": "Sky Home Real Estate",
         "rateing": 4.0,
         "phone": "9152385411",
         "address": "Plaza Gyan Khand 1.. "
     },
-
+    
 ]
 
 
