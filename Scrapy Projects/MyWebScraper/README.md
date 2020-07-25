@@ -29,14 +29,14 @@
 
 	Following are the some instructions about project.
 
-## 1. Prerequisite
+### 1. Prerequisite
 
 	$ pip install Scrapy
 
 	$ pip install selenium
 
 
-## 2. Creating a project
+### 2. Creating a project
 
 	$ scrapy startproject MyWebScraper
 
@@ -45,18 +45,18 @@
 	$ cd MyWebScraper
 
 
-## 3. Create Spider
+### 3. Create Spider
 
 	Create spider under "spider" directory.
 
 
-## 4. Run Project
+### 4. Run Project
 
 	 ~/MyWebScraper$ scrapy crawl justdial
 
 		where "justdial" is `name` of spider file which is declare in "JustDialSpider.py" file.
 
 
-## 5. All Scraped Data will save inside the "SCRAPED_DATA" folder.
+### 5. All Scraped Data will save inside the "SCRAPED_DATA" folder.
 
 
